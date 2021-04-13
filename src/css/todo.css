@@ -1,0 +1,19 @@
+.taskItem {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    
+    
+}
+
+.delete {
+    background-color: red;
+
+}
+
+.done {
+    text-decoration:line-through;
+}
